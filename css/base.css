@@ -1,0 +1,77 @@
+*{margin: 0;padding: 0;font-family: "微软雅黑" !important;}
+em{
+	font-style: normal;
+}
+html{font-size: 20px;}
+li{ list-style:none; }
+a{ text-decoration:none; }
+img{ vertical-align:top; }
+*{margin: 0;padding: 0;font-family: "微软雅黑" !important;}
+html{font-size: 20px;}
+li{ list-style:none; }
+a{ text-decoration:none; }
+img{ vertical-align:top; }
+input{outline: none}
+input[type="button"], input[type="submit"], input[type="reset"] {-webkit-appearance: none;}
+header{
+	width: 18.0rem;
+	height: 1.25rem;
+	overflow: hidden;
+	background: #1b1b1b;
+}
+header img{
+	float: left;
+	margin-top: 0.1rem;
+	margin-left: 0.25rem;
+	width: 1.975rem;
+}
+header h1{
+	color: #fff;
+	float: left;
+	margin-top: 0.5rem;
+	margin-left: 0.25rem;
+	font-size: 0.45rem;
+	font-weight: bold;
+}
+header p{
+	font-size: 0.45rem;
+	height: 100%;
+	padding-left: 0.875rem;
+	color: #fff;
+	font-weight: bold;
+	float: right;
+	margin-right: 0.2rem;
+	line-height: 1.25rem;
+	background: url(../images/phone.png) no-repeat 0 center;
+	background-size: 0.55rem 0.65rem;
+	padding-top: 0.125rem
+}
+
+
+.fix{
+	width: 18.0rem;
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	height: 1.7rem;
+	z-index: 9999
+
+}
+.fix a{
+	display: block;
+	flex:1;
+	height: 100%;
+	text-align: center;
+	line-height: 1.7rem;
+	font-size: 0.6rem;
+	color: #fff;
+	padding-left: 0.5rem;
+}
+.fix1{
+	background: url(../images/fix1.png) no-repeat 15% center #000;
+	background-size: 1.15rem 1.125rem
+}
+.fix2{
+	background: url(../images/fix2.png) no-repeat 25% center #e62929;
+	background-size: 1.525rem 1.2rem
+}

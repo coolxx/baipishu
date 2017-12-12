@@ -1,0 +1,95 @@
+.banner img{
+	display: block;
+	width: 18.0rem;
+}
+.zg-main{
+	width: 17.5rem;
+	padding-bottom: 1.45rem;
+	border-bottom: 0.1rem solid #e3e3e3;
+	margin: 0 auto
+}
+.zg-main h2{
+	font-size: 1.0rem;
+	color: #fff;
+	width: 8.175rem;
+	height: 2.3rem;
+	text-align: center;
+	line-height: 2.3rem;
+	background: url(../images/m7.png) no-repeat center;
+	background-size: 8.175rem;
+	margin: 0.85rem auto 0;
+}
+.zg-main ul{
+	overflow: hidden;
+}
+.zg-main ul li{
+	float: left;
+	margin-left: 0.55rem;
+	margin-top: 0.8rem;
+	width: 8.2rem;
+	height: 4.05rem;
+	line-height: 4.05rem;
+	background: url(../images/m8.png) no-repeat center;
+	background-size: 8.2rem;
+	text-align: center;
+}
+.zg-main ul li a{
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 0.75rem;
+	text-align: center;
+	font-weight: bold;
+	line-height: 1.0rem;
+	color: #fff;
+}
+.subjects{
+	width: 17.5rem;
+	height: 7.55rem;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 17.0rem;
+	display: none;
+}
+.subjects > p a{
+	display: block;
+	font-size: 0.65rem;
+	line-height: 0.65rem;
+	margin-left: 1.25rem;
+	padding-left: 0.55rem;
+	margin-top: 1.7rem;
+	color: #f12d6c;
+	text-decoration: underline;
+	background: url(../images/m10.png) no-repeat left center;
+	background-size: 0.35rem
+}
+.subjects div{
+	overflow: hidden;
+}
+.subjects div p{
+	width: 7rem;
+	float: left;
+	margin-left: 1.2rem;
+	margin-top: 0.65rem;
+	overflow: hidden;
+}
+.subjects div p span{
+	float: left;
+	font-size: 0.6rem;
+	line-height: 0.6rem;
+}
+.subjects div p a{
+	float: right;
+	font-size: 0.6rem;
+	color: #f12d6c;
+}
+.subjects2 div p{
+	width: 5rem;
+	margin-left: 2rem;
+}
+.subjects3{
+	height: 6.25rem;
+}
+.zg-main2{
+	padding-bottom: 3.15rem
+}
